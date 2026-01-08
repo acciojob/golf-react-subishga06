@@ -1,0 +1,20 @@
+.container {
+  position: relative;
+  height: 200px;
+  margin-top: 40px;
+}
+
+.start {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.ball {
+  width: 30px;
+  height: 30px;
+  background-color: green;
+  border-radius: 50%;
+  position: absolute;
+  top: 80px;
+}
